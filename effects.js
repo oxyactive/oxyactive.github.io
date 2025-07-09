@@ -61,7 +61,7 @@ typeWriter();
 
 document.addEventListener("DOMContentLoaded", function () {
 const elements = document.querySelectorAll('.typewriter');
-const texts = ["dm me on discord: oxy.szn", "i love brooke <3", "#999"];
+const texts = [".gg/oxyshorts", "i love brooke <3", "#999"];
 const typingSpeed = 100;
 const pauseDuration = 1000;
 let currentIndex = 0;
